@@ -14,7 +14,7 @@ The classifier model is completed and works well. The model is trained using a t
 ![alt text](https://github.com/sarang-iitb/Indian-Traffic-Signs-Prediction/blob/main/predd.png?raw=true)
 ![alt text](https://github.com/sarang-iitb/Indian-Traffic-Signs-Prediction/blob/main/predd3.png?raw=true)
 ![alt text](https://github.com/sarang-iitb/Indian-Traffic-Signs-Prediction/blob/main/prediction_probability_gif.gif?raw=true)
-![alt text](https://github.com/sarang-iitb/Indian-Traffic-Signs-Prediction/blob/main/tr out.png?raw=true)
+![alt text](https://github.com/sarang-iitb/Indian-Traffic-Signs-Prediction/blob/main/tr_out.png?raw=true)
 
 
 ## Installations
