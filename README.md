@@ -8,11 +8,14 @@ India has so many different types of traffic signs out there (85 to be precise),
 The classifier model is completed and works well. The model is trained using a total of 7210 images and have achieved accuracy of 75.75%.  
 
 ## Screenshots
-![GitHub Logo](https://drive.google.com/file/d/13rgyZBxUAgNdyKxkPORu2Q2kUo7xofLZ/view?usp=sharing) Format: ![Alt Text](url) 
-![GitHub Logo](https://drive.google.com/file/d/13rgyZBxUAgNdyKxkPORu2Q2kUo7xofLZ/view?usp=sharing) Format: ![Alt Text](url) 
-![GitHub Logo](https://drive.google.com/file/d/1p9ZDq64zs9DaUIKPBNSMQyeEjBI56mmg/view?usp=sharing) Format: ![Alt Text](url) 
-![GitHub Logo](https://drive.google.com/file/d/1bTxoEi0wCwuxGIeKKZrEL31dbXTMPU3g/view?usp=sharing) Format: ![Alt Text](url) 
-![GitHub Logo](https://drive.google.com/file/d/1Bp9GpXCu_QGX-w__16NDEhJkxASWDj2p/view?usp=sharing) Format: ![Alt Text](url) 
+
+![alt text](https://github.com/sarang-iitb/Indian-Traffic-Signs-Prediction/blob/main/output_gif.gif?raw=true)
+![alt text](https://github.com/sarang-iitb/Indian-Traffic-Signs-Prediction/blob/main/pr pro.png?raw=true)
+![alt text](https://github.com/sarang-iitb/Indian-Traffic-Signs-Prediction/blob/main/predd.png?raw=true)
+![alt text](https://github.com/sarang-iitb/Indian-Traffic-Signs-Prediction/blob/main/predd3.png?raw=true)
+![alt text](https://github.com/sarang-iitb/Indian-Traffic-Signs-Prediction/blob/main/prediction_probability_gif.gif?raw=true)
+![alt text](https://github.com/sarang-iitb/Indian-Traffic-Signs-Prediction/blob/main/tr out.png?raw=true)
+
 
 ## Installations
 
